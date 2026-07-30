@@ -50,3 +50,11 @@
 
 - converting the HDMI signal to the 40-Pin 14-inch display panel connector
 - brightniss controll via a digital potentiometer (need to be controlled via the internal network)
+
+## Software Notes
+
+- Backend for the Ouput Modules
+- Backend for the Fader Modules/HDMI-to-Screen Module
+- Backend for Remote Control
+
+- Frontend UI for Show Programming/Control aswell as virtuall visualisation
