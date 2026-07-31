@@ -21,8 +21,7 @@
 - stm32 chip for signal generation, recives signals from the light software over ethernet
 - W5500 10/100 base ethernet - SPI chip
 - RDM !
-- STM32G0B1 with 4 UARTs for 4 Outputs (Universen)
-- Some cheaper STM32 for the 1 Output Module
+- 4 output module can only handle 2 DMX/RDM Inputs from 4 DMX Ports.
 
 ### [] Relai Output Module
 
@@ -32,7 +31,6 @@
 ### [] Art-Net Output Board
 
 - using two W5500 to recive data from the internal network and send Art-Net via the second.
-- STM32F401CCU6 is the best and cheapest option there.
 
 ## Control Modules
 
