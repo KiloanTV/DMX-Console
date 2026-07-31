@@ -1,7 +1,7 @@
 # DMX Console
 
 - [] Output Modules for DMX & RDM (bidirectonal)
-- [] Output Modules for Relais (Pyrotechnik)
+- [] Output Modules for Relays (Pyrotechnik)
 - [] Art-Net Output Board
 - [] Network Ouput for Remote Controll
 - [] Internal Network Switch
@@ -25,17 +25,17 @@
 - [] make the pcb layout
 - [] route the pcb
 
-### [] Relai Output Module
+### [] Relay Output Module
 
 - [] 5v + stm32 + W5500 architecture
-- [] direkt lan connection to a Relai Board so the board can be placed near Pyrotechnik or similar
+- [] direkt lan connection to a Relay Board so the board can be placed near Pyrotechnik or similar
 
 - [] make the pcb layout
 - [] route the pcb
 
 ### [] Art-Net Output Board
 
-- [] using two W5500 to recive data from the internal network and send Art-Net via the second.
+- [x] using two W5500 to recive data from the internal network and send Art-Net via the second.
 
 - [] make the pcb layout
 - [] route the pcb
@@ -69,7 +69,7 @@
 
 - firmware for single/4x Output Boards
 - firmware for Art-Net Output Board
-- firmware for the Relai Output Board and remote Relai board itself
+- firmware for the Relay Output Board and remote Relay board itself
 
 - firmware for the Fader Module
 - firmware for the backlight control
