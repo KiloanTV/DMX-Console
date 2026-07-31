@@ -57,8 +57,19 @@
 
 ### [] HDMI-to-Screen Module
 
-- converting the HDMI signal to the 40-Pin 14-inch display panel connector
-- brightniss controll via a digital potentiometer (need to be controlled via the internal network)
+- [] converting the HDMI signal to the 40-Pin 14-inch display panel connector
+- [] brightniss controll via a digital potentiometer (need to be controlled via the internal network)
+- [] using the B140XW01_V8 laptop screen panel (super cheap)
+- [] 40 pin 0,5mm pitch to EDP flat kabel
+- [] Display size is 14 inches and Resolutions 1366 x 768 pixel
+- [] nutzen des TI TS3DV642A0RUAR obwohl nur eine hdmi quelle für ESD-Schutz der hdmi leitung und hot plug detect
+
+- [] make the pcb layout
+- [] route the pcb
+
+### internal Network switch
+
+- [] using the REALTEK RTL8367RB-VB-CG chip for simple 10/100/1000 Base network switching
 
 - [] make the pcb layout
 - [] route the pcb
