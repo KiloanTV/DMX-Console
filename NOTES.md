@@ -27,8 +27,8 @@
 
 ### [] Relay Output Module
 
-- [] 5v + stm32 + W5500 architecture
-- [] direkt lan connection to a Relay Board so the board can be placed near Pyrotechnik or similar
+- [x] 5v + stm32 + W5500 architecture
+- [x] direkt lan connection to a Relay Board so the board can be placed near Pyrotechnik or similar
 
 - [] make the pcb layout
 - [] route the pcb
