@@ -44,13 +44,16 @@
 
 ### [] Fader Module
 
-- [] Four Faders (motorized)
+- [] Four Faders with ADC pins
 - [] on button for every fader to select it
 - [] two programmable buttons for each fader slot
 - [] one small oled display (2 I2C lanes) for displaying what fader slot does
-- [] motor controlles aswell as ADC pins for the faders
-- [] W5500 for connecting to the internal network
-- [] USB port for updates/programming of the STM32
+- [] motor controlles for the faders
+- [x] W5500 for connecting to the internal network
+- [x] USB port for updates/programming of the STM32
+
+- https://www.alibaba.com/product-detail/Set-of-5-High-Performance-100mm_1601281604613.html?spm=a2700.prosearch.normal_offer.d_title.36eb67afccgAYp&priceId=4d35275952de4e86a10c2bc27c13d5f2
+- https://www.alibaba.com/product-detail/Terwin-X32-Motor-Fader-100mm-Travel_1601238129471.html?spm=a2700.prosearch.normal_offer.d_image.2e8f67afmJxxMf&priceId=ad31270e432b4abc9cdc3bcf5230f13c
 
 - [] make the pcb layout
 - [] route the pcb
