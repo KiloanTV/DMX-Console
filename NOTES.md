@@ -44,11 +44,12 @@
 
 ### [] Fader Module
 
-- [] Four Faders with ADC pins
-- [] on button for every fader to select it
-- [] two programmable buttons for each fader slot
-- [] one small oled display (2 I2C lanes) for displaying what fader slot does
-- [] motor controlles for the faders
+- [x] Four Faders with ADC pins
+- [x] IO Espander for the Buttons (switches)
+- [x] on button for every fader to select it
+- [x] two programmable buttons for each fader slot
+- [x] one small oled display (2 I2C lanes) for displaying what fader slot does
+- [x] motor controlles for the faders
 - [x] W5500 for connecting to the internal network
 - [x] USB port for updates/programming of the STM32
 
