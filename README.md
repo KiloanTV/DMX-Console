@@ -1,1 +1,60 @@
-# DMX Console
+<div>
+  <h1 align="center">DMX Console</h1>
+
+  ![4xdmx-pcb](pictures/4xdmx-pcb.jpeg)
+
+  ![dmx-pcb](pictures/single-pcb.jpeg)
+
+  ![artnet-pcb](pictures/artnet-pcb.jpeg)
+
+  ![relai-pcb](pictures/relai-pcb.jpeg)
+
+  ![fader-pcb](pictures/fader-pcb.png)
+
+  <p align="center">
+  <a href="https://blueprint.hackclub.com/">
+    <img alt="Funded by Hack Club" src="https://img.shields.io/badge/Hack_Club-Funded-ec3750?style=for-the-badge&logo=hackclub&logoColor=ec3750"></img>
+  </a>
+  </p>
+  <h1></h1>
+  <p align="center">
+    Nodes to build a custom DMX Console yourself!
+  </p>
+</div>
+
+<sub align="center">This work is licensed under the
+[MIT License](https://mit-license.org).
+</sub>
+
+## Table of Contents
+
+- [About](#about)
+- [Pictures](#pictures)
+- [Bill of Materials](#bill-of-materials)
+
+# About
+
+I really wanted to build my own DMX Console but with modules and nodes so everyone can make a combination which work for themself. I havent designed the display driver board and the network switch yet but that will be in the V2 in the future.
+
+# Pictures
+
+![fader-routing](pictures/fader-routing.jpeg)
+
+![relai-routing](pictures/ralai-routing.jpeg)
+
+![single-routing](pictures/single-routing.jpeg)
+
+# Bill of Materials
+
+<details>
+<summary><strong>Show Bill Of Materials(BOM) ----></strong></summary>
+
+|Part Name                                     |Quantity                                    |Price            |Vendor    |Shipping Cost                                                  |Total Cost      |Link(if applicable)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |FIELD8|
+|----------------------------------------------|--------------------------------------------|-----------------|----------|---------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+|All 5 different PCBs + Stencils               |1x5 of each                                 |€84.74           |jlcpcb    |Shipping for all 3 PCB orders + taxes (see screenshot): €61.76 |                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |      |
+|LCSC Electronic Components for 1x of every PCB|1 Order for everything(see lcsc cart export)|€135.83          |lcsc      |€49,63 (there is a Tariff for EU handling fees, see screenshot)|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |      |
+|motorized fader                               |4x1pcs                                      |€15,52           |alibaba   |€11.21                                                         |                |https://www.alibaba.com/product-detail/Terwin-X32-Motor-Fader-100mm-Travel_1601238129471.html?spm=a2700.prosearch.normal_offer.d_image.2e8f67afmJxxMf&priceId=ad31270e432b4abc9cdc3bcf5230f13c                                                                                                                                                                                                                                                                                                                                                                                                                                |      |
+|Keyswitches                                   |4x1pcs                                      |€5,42            |aliexpress|€12.59                                                         |                |https://de.aliexpress.com/item/1005009946528694.html?spm=a2g0o.productlist.main.6.577b5ba0rvdL0e&algo_pvid=3587bc3c-6277-4f81-b946-1ec385545323&algo_exp_id=3587bc3c-6277-4f81-b946-1ec385545323-5&pdp_ext_f=%7B%22order%22%3A%2226%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.79%211.79%21%21%211.96%211.96%21%400b88ab8a17934589390817509e0f02%2112000050653018363%21sea%21DE%210%21X%211%210%21n_tag%3A-29919%3Bd%3A579054d5%3Bm03_new_user%3A-29895&curPageLogUid=jCaWmj7inoTK&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009946528694%7C_p_origin_prod%3A|      |
+|Estimated Total                               |                                            |€241,51 ($270,48)|          |€135,19 ($151,41)                                              |€376,7 ($421,89)|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |      |
+
+</details>
