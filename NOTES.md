@@ -1,18 +1,18 @@
 # DMX Console
 
-- [] Output Modules for DMX & RDM (bidirectonal)
-- [] Output Modules for Relays (Pyrotechnik)
-- [] Art-Net Output Board
-- [] Network Ouput for Remote Controll
+- [x] Output Modules for DMX & RDM (bidirectonal)
+- [x] Output Modules for Relays (Pyrotechnik)
+- [x] Art-Net Output Board
+- [x] Network Ouput for Remote Controll
 - [] Internal Network Switch
-- [] firmware for the Output Modules and Fader Boards
+- [x] firmware for the Output Modules and Fader Boards
 - [] Big Touch Screen
-- [] X32 Motorized Faders on Alibaba (cheap)
+- [x] X32 Motorized Faders on Alibaba (cheap)
 - [] Power Supply for everything
 
 ## Output Modules
 
-### [] DMX Ouput Modules - 1 Unverse & 4 Universes
+### [x] DMX Ouput Modules - 1 Unverse & 4 Universes
 
 - [x] 5v for the board
 - [x] ethernet for internal communication
@@ -22,27 +22,27 @@
 - [x] W5500 10/100 base ethernet - SPI chip
 - [x] RDM on all ports possible
 
-- [] make the pcb layout
-- [] route the pcb
+- [x] make the pcb layout
+- [x] route the pcb
 
-### [] Relay Output Module
+### [x] Relay Output Module
 
 - [x] 5v + stm32 + W5500 architecture
 - [x] direkt lan connection to a Relay Board so the board can be placed near Pyrotechnik or similar
 
-- [] make the pcb layout
-- [] route the pcb
+- [x] make the pcb layout
+- [x] route the pcb
 
-### [] Art-Net Output Board
+### [x] Art-Net Output Board
 
 - [x] using two W5500 to recive data from the internal network and send Art-Net via the second.
 
-- [] make the pcb layout
-- [] route the pcb
+- [x] make the pcb layout
+- [x] route the pcb
 
 ## Control Modules
 
-### [] Fader Module
+### [x] Fader Module
 
 - [x] Four Faders with ADC pins
 - [x] IO Espander for the Buttons (switches)
@@ -56,8 +56,8 @@
 - https://www.alibaba.com/product-detail/Set-of-5-High-Performance-100mm_1601281604613.html?spm=a2700.prosearch.normal_offer.d_title.36eb67afccgAYp&priceId=4d35275952de4e86a10c2bc27c13d5f2
 - https://www.alibaba.com/product-detail/Terwin-X32-Motor-Fader-100mm-Travel_1601238129471.html?spm=a2700.prosearch.normal_offer.d_image.2e8f67afmJxxMf&priceId=ad31270e432b4abc9cdc3bcf5230f13c
 
-- [] make the pcb layout
-- [] route the pcb
+- [x] make the pcb layout
+- [x] route the pcb
 
 ### [] HDMI-to-Screen Module
 
